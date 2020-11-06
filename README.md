@@ -1,6 +1,6 @@
 ### Capstone_Design_Bootstrapping_BS_KHU
   
-- The reports of capstone design class in undergraduate school of KHU
+- The reports of capstone design class (undergraduate school of KHU)
 
 #### Instructor
 - Prof. Sunmi Lee
