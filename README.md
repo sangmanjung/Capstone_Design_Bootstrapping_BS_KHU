@@ -10,6 +10,6 @@
 - Banks, H. T., Holm, K., & Robbins, D. (2010). Standard error computations for uncertainty quantification in inverse problems: Asymptotic theory vs. bootstrapping. Mathematical and computer modelling, 52(9-10), 1610-1625.
   
 #### Contents
-- study report of the capstone design (pdf)
-- poster of the capstone design (pdf)
+- study report (pdf)
+- poster (pdf)
 - MATLAB codes
