@@ -13,3 +13,8 @@
 - study report (pdf)
 - poster (pdf)
 - MATLAB codes
+
+#### Preview  
+  
+![poster_SEC_sangmanjung](https://user-images.githubusercontent.com/43581612/105723796-8952a900-5f6a-11eb-8da5-c1b9237a9e43.png)
+  
